@@ -1,0 +1,5 @@
+C:\su\temp\LoadingTests\LoadingTests\bin\Debug\LoadingTests.exe.config
+C:\su\temp\LoadingTests\LoadingTests\bin\Debug\LoadingTests.exe
+C:\su\temp\LoadingTests\LoadingTests\bin\Debug\LoadingTests.pdb
+C:\su\temp\LoadingTests\LoadingTests\obj\Debug\LoadingTests.exe
+C:\su\temp\LoadingTests\LoadingTests\obj\Debug\LoadingTests.pdb

@@ -1,0 +1,44 @@
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\CoreBuilder.dll.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\CoreBuilder.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\CoreBuilder.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\FileManager.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\Messages.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\TestDeserialization.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\TestHarnessMessages.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\FileManager.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\Messages.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\TestDeserialization.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\TestHarnessMessages.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\obj\Debug\CoreBuilder.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\obj\Debug\CoreBuilder.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\obj\Debug\CoreBuilder.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\Logger.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\CoreBuilder\bin\Debug\Logger.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\CoreBuilder.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\CoreBuilder.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\CoreBuilder.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\BuildServerMessages.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\FederationInterface.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\FileManager.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\Logger.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\Messages.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\RequestHandlerInterface.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\TestDeserialization.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\BuildServerMessages.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\BuildServerMessages.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\FederationInterface.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\FederationInterface.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\FileManager.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\FileManager.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\Logger.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\Logger.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\Messages.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\Messages.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\RequestHandlerInterface.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\RequestHandlerInterface.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\TestDeserialization.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\bin\Debug\TestDeserialization.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\obj\Debug\CoreBuilder.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\obj\Debug\CoreBuilder.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\obj\Debug\CoreBuilder.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\CoreBuilder\obj\Debug\CoreBuilder.pdb

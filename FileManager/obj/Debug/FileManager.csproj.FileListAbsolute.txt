@@ -1,0 +1,12 @@
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\FileManager\bin\Debug\FileManager.dll.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\FileManager\bin\Debug\FileManager.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\FileManager\bin\Debug\FileManager.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\FileManager\obj\Debug\FileManager.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\FileManager\obj\Debug\FileManager.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\FileManager\bin\Debug\FileManager.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\FileManager\bin\Debug\FileManager.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\FileManager\bin\Debug\FileManager.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\FileManager\obj\Debug\FileManager.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\FileManager\obj\Debug\FileManager.pdb
